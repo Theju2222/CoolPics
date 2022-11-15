@@ -1,0 +1,240 @@
+body {
+    margin: 0;
+    padding: 0%;
+    width: 100%;
+}
+
+a {
+    width: 100%;
+    text-decoration: none;
+    color: white;
+}
+header {
+    border: 1px solid gray;
+    display: flex;
+    justify-content: space-between;
+    padding: 0%;
+    background-color: #901e95;
+}
+
+header p {
+    margin: 0;
+    color: white;
+    font-size: 1vw;
+}
+
+.logo {
+    display: flex;
+    justify-content: space-around;
+    margin-right: 1%;
+    width: 8%;
+}
+
+.logo a img {
+    width: 100%;
+    position: relative;
+    left: 3.5vw;
+    top: 10%;
+}
+.favs {
+    display: flex;
+    gap: 15%;
+    padding: 3%;
+    font-size: 1vw;
+    color: white;
+    justify-content: end;
+}
+.body {
+    width: 95%;
+    margin-left: 5%;
+    position: relative;
+    margin-bottom: 3%;
+}
+
+.body h1 {
+    font-size: 2vw;
+}
+
+.body p {
+    font-size: 1.5vw;
+    color: #707070;
+}
+.all-img {
+    width: 100%;
+    margin-top: 3%;
+}
+
+.img {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+
+}
+
+.img img {
+    margin-right: 5%;
+    width: 75%;
+}
+
+.image {
+    position: relative;
+}
+.image img {
+    margin: 0;
+}
+
+img.like {
+    position: absolute;
+    width: 6%;
+    right: 25%;
+}
+.all-img1 {
+    width: 100%;
+    margin-top: 3%;
+}
+
+.imgs1 {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+img.img1 {
+    width: 88%
+}
+
+
+img .like1 {
+    position: absolute;
+    width: 2%;
+    right: 71%;
+}
+footer {
+    width: 100%;
+    background-color: #29002b;
+    text-align: center;
+    color: white;
+}
+footer img {
+    width: 10%;
+}
+footer h3 {
+    font-size: 2vw;
+}
+footer p {
+    font-size: 1.5vw;
+    margin: 0;
+}
+.blur {
+    filter: blur(32px);
+    background-color: #707070;
+}
+
+.background-text {
+    position: absolute;
+    font-size: 4vw;
+    color: #29012b;
+    top: 35%;
+    left: 20%;
+    text-align: center;
+    /* z-index: 2; */
+}
+
+.background-text p {
+    margin: 0;
+}
+.background {
+    position: relative;
+    /* z-index: 1; */
+}
+
+.background .blur {
+    width: 100%;
+    position: relative;
+    filter: blur(22px);
+}
+
+p.text2 {
+    font-size: 3vw;
+    text-align: center;
+}
+
+input.input {
+    font-size: 2vw;
+    width: 63vw;
+    padding: 1%;
+    border-radius: 1vw;
+    border: 0;
+}
+
+img.search {
+    position: absolute;
+    right: 0%;
+    top: 81%;
+    width: 1.5vw;
+}
+
+section.preview {
+    position: absolute;
+    top: 7vw;
+    right: 30vw;
+    width: 100%;
+}
+
+img.preview-main {
+    width: 72%;
+    margin-left: 45%;
+}
+
+.preview-sub {
+    margin-left: 30%;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 3%;
+}
+.preview-sub img {
+    width: 20%;
+}
+
+h1.thin {
+    margin-left: 5%;
+    position: relative;
+    margin-bottom: 3%;
+}
+img.preview-main1 {
+    width: 50%;
+    margin-left: 57%;
+    position: absolute;
+    top: 8vw;
+}
+
+img.preview-main2 {
+    width: 72%;
+    margin-left: 45%;
+    position: absolute;
+    top: 40vw;
+}
+
+img.preview-main3 {
+    width: 1.5%;
+    margin-left: 114%;
+    position: absolute;
+    top: 1vw;
+}
+
+.preview-main4 {
+    margin-left: 48%;
+    position: absolute;
+    bottom: 2vw;
+    color: #FFFFFF;
+    font-size: 2vw;
+}
+
+
+img.preview-main5 {
+    width: 72%;
+    margin-left: 45%;
+    position: absolute;
+    top: 4vw;
+}

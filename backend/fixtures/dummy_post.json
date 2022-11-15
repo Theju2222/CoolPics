@@ -1,0 +1,205 @@
+{
+  "count": 18,
+  "next": null,
+  "previous": null,
+  "results": [
+      {
+          "id": 19,
+          "name": "Galaxy Background",
+          "description": "Galaxy Background",
+          "image": "image/upload/v1651599636/kibvosrmfkg58hscmujb.png",
+          "created_at": "2022-05-03T17:40:37.264584Z",
+          "updated_at": "2022-05-03T17:40:37.264701Z",
+          "tag": [
+              6
+          ]
+      },
+      {
+          "id": 20,
+          "name": "Galaxy Background",
+          "description": "Galaxy Background",
+          "image": "image/upload/v1651599652/kdgeb3gz4de8rl1aoute.png",
+          "created_at": "2022-05-03T17:40:52.484014Z",
+          "updated_at": "2022-05-03T17:40:52.484086Z",
+          "tag": [
+              6
+          ]
+      },
+      {
+          "id": 21,
+          "name": "Galaxy Background",
+          "description": "Galaxy Background",
+          "image": "image/upload/v1651599667/ugohbwyuosuknb0cuht3.png",
+          "created_at": "2022-05-03T17:41:08.487088Z",
+          "updated_at": "2022-05-03T17:41:08.487175Z",
+          "tag": [
+              6
+          ]
+      },
+      {
+          "id": 22,
+          "name": "Car Background",
+          "description": "Car Background",
+          "image": "image/upload/v1651599685/vzbhqokcnh9vqiiupbev.png",
+          "created_at": "2022-05-03T17:41:25.911487Z",
+          "updated_at": "2022-05-03T17:41:25.911642Z",
+          "tag": [
+              5
+          ]
+      },
+      {
+          "id": 23,
+          "name": "Car Background",
+          "description": "Car Background",
+          "image": "image/upload/v1651599700/exfppwartjcfklqgca5e.png",
+          "created_at": "2022-05-03T17:41:41.744351Z",
+          "updated_at": "2022-05-03T17:41:41.744451Z",
+          "tag": [
+              5
+          ]
+      },
+      {
+          "id": 24,
+          "name": "Car Background",
+          "description": "Car Background",
+          "image": "image/upload/v1651599718/gnlpg0dyngt5c62oy6zz.png",
+          "created_at": "2022-05-03T17:41:58.461523Z",
+          "updated_at": "2022-05-03T17:41:58.461659Z",
+          "tag": [
+              5
+          ]
+      },
+      {
+          "id": 25,
+          "name": "Abstract Background",
+          "description": "Abstract Background",
+          "image": "image/upload/v1651599746/glnefa1k060rfsoawgid.png",
+          "created_at": "2022-05-03T17:42:27.235987Z",
+          "updated_at": "2022-05-03T17:42:27.236039Z",
+          "tag": [
+              4
+          ]
+      },
+      {
+          "id": 26,
+          "name": "Abstract Background",
+          "description": "Abstract Background",
+          "image": "image/upload/v1651599766/w3zzcxau7swmujkpkyep.png",
+          "created_at": "2022-05-03T17:42:47.648725Z",
+          "updated_at": "2022-05-03T17:42:47.648866Z",
+          "tag": [
+              4
+          ]
+      },
+      {
+          "id": 27,
+          "name": "Abstract Background",
+          "description": "Abstract Background",
+          "image": "image/upload/v1651599783/qyexu7hvih9ffnoawjki.png",
+          "created_at": "2022-05-03T17:43:03.755859Z",
+          "updated_at": "2022-05-03T17:43:03.755916Z",
+          "tag": [
+              4
+          ]
+      },
+      {
+          "id": 28,
+          "name": "Office Background",
+          "description": "Office Background",
+          "image": "image/upload/v1651599803/prwoiek9duam0gbsuqmd.png",
+          "created_at": "2022-05-03T17:43:24.401133Z",
+          "updated_at": "2022-05-03T17:43:24.401231Z",
+          "tag": [
+              3
+          ]
+      },
+      {
+          "id": 29,
+          "name": "Office Background",
+          "description": "Office Background",
+          "image": "image/upload/v1651599819/qpjutvv7pelczhfdxf7r.png",
+          "created_at": "2022-05-03T17:43:39.969942Z",
+          "updated_at": "2022-05-03T17:43:39.970039Z",
+          "tag": [
+              3
+          ]
+      },
+      {
+          "id": 30,
+          "name": "Office Background",
+          "description": "Office Background",
+          "image": "image/upload/v1651599834/uojfgi0bbt69c8pyhnmo.png",
+          "created_at": "2022-05-03T17:43:54.600632Z",
+          "updated_at": "2022-05-03T17:43:54.600729Z",
+          "tag": [
+              3
+          ]
+      },
+      {
+          "id": 31,
+          "name": "Tech Background",
+          "description": "Tech Background",
+          "image": "image/upload/v1651599865/d6hvafckmzbwazppd7rp.png",
+          "created_at": "2022-05-03T17:44:25.667200Z",
+          "updated_at": "2022-05-03T17:44:25.667307Z",
+          "tag": [
+              2
+          ]
+      },
+      {
+          "id": 32,
+          "name": "Tech Background",
+          "description": "Tech Background",
+          "image": "image/upload/v1651599881/qx6djifk4wnhfsmw9vdh.png",
+          "created_at": "2022-05-03T17:44:41.617470Z",
+          "updated_at": "2022-05-03T17:44:41.617584Z",
+          "tag": [
+              2
+          ]
+      },
+      {
+          "id": 33,
+          "name": "Tech Background",
+          "description": "Tech Background",
+          "image": "image/upload/v1651599895/scvzfcj8a83hdqjwz9kp.png",
+          "created_at": "2022-05-03T17:44:55.712063Z",
+          "updated_at": "2022-05-03T17:44:55.712143Z",
+          "tag": [
+              2
+          ]
+      },
+      {
+          "id": 34,
+          "name": "Room Background",
+          "description": "Room Background",
+          "image": "image/upload/v1651599912/bkpit85kewthv8jnjno6.png",
+          "created_at": "2022-05-03T17:45:12.648396Z",
+          "updated_at": "2022-05-03T17:45:12.648464Z",
+          "tag": [
+              1
+          ]
+      },
+      {
+          "id": 35,
+          "name": "Room Background",
+          "description": "Room Background",
+          "image": "image/upload/v1651599927/fzwhqhx4vnetgrfko9ll.png",
+          "created_at": "2022-05-03T17:45:27.563028Z",
+          "updated_at": "2022-05-03T17:45:27.563171Z",
+          "tag": [
+              1
+          ]
+      },
+      {
+          "id": 36,
+          "name": "Room Background",
+          "description": "Room Background",
+          "image": "image/upload/v1651599938/pkvqukeosipapwlldgbb.png",
+          "created_at": "2022-05-03T17:45:39.602330Z",
+          "updated_at": "2022-05-03T17:45:39.602390Z",
+          "tag": [
+              1
+          ]
+      }
+  ]
+}
